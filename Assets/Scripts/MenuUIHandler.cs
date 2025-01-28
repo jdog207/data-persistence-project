@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEditor;
+using TMPro;
+
 public class MenuUIHandler : MonoBehaviour
 {
     //This is the handler of the main menu scene
